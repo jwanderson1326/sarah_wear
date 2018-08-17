@@ -5,7 +5,7 @@ import os
 HOST = 'localhost'
 USER = 'root'
 DB = 'weather'
-PASSWD = 'Paddles1'
+PASSWD = ''
 
 #CSV Locations
 
