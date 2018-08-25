@@ -1,6 +1,5 @@
 import requests as r
 import json
-import tzlocal
 from datetime import datetime
 from sys import exit
 

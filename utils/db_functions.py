@@ -1,13 +1,13 @@
 '''Functions for manipulating the lookup DB'''
 import os
 import csv
-import MySQLdb
+import mysql.connector
 from .db_config import HOST, USER, DB, PASSWD, PATH_CSV
 
 
 def connect_to_db():
     '''Connecting to mysql database'''
-    db = MySQLdb.connect(host = HOST,
+    db = mysql.connector.connect(host = HOST,
                          user = USER,
                          passwd = PASSWD,
                          db = DB)
@@ -45,6 +45,7 @@ def insert_csv_query(table):
 
 
 def create_table(schema, primary_key, name):
+    '''Create table function'''
     db = connect_to_db()
     curs = db.cursor()
     query = format_schema_query(schema, primary_key, name)
@@ -54,12 +55,14 @@ def create_table(schema, primary_key, name):
 
 
 def drop_table(name):
+    '''Drop table function'''
     db = connect_to_db()
     curs = db.cursor()
     curs.execute("DROP TABLE %s" % name)
 
 
 def insert_csv(file, table):
+    '''For appending onto files'''
     db = connect_to_db()
     curs = db.cursor()
     query = insert_csv_query(table)
