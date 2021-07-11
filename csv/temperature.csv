@@ -1,122 +1,122 @@
-temperature,clothes
--10,Winter Coat
--9,Winter Coat
--8,Winter Coat
--7,Winter Coat
--6,Winter Coat
--5,Winter Coat
--4,Winter Coat
--3,Winter Coat
--2,Winter Coat
--1,Winter Coat
-0,Winter Coat
-1,Winter Coat
-2,Winter Coat
-3,Winter Coat
-4,Winter Coat
-5,Winter Coat
-6,Winter Coat
-7,Winter Coat
-8,Winter Coat
-9,Winter Coat
-10,Winter Coat
-11,Winter Coat
-12,Winter Coat
-13,Winter Coat
-14,Winter Coat
-15,Winter Coat
-16,Winter Coat
-17,Winter Coat
-18,Winter Coat
-19,Winter Coat
-20,Winter Coat
-21,Winter Coat
-22,Winter Coat
-23,Winter Coat
-24,Winter Coat
-25,Winter Coat
-26,Winter Coat
-27,Winter Coat
-28,Winter Coat
-29,Winter Coat
-30,Winter Coat
-31,Winter Coat
-32,Winter Coat
-33,Winter Coat
-34,Winter Coat
-35,Winter Coat
-36,Winter Coat
-37,Winter Coat
-38,Winter Coat
-39,Winter Coat
-40,Winter Coat
-41,Winter Coat
-42,Winter Coat
-43,Winter Coat
-44,Winter Coat
-45,Winter Coat
-46,Light Jacket or Sweater
-47,Light Jacket or Sweater
-48,Light Jacket or Sweater
-49,Light Jacket or Sweater
-50,Light Jacket or Sweater
-51,Light Jacket or Sweater
-52,Light Jacket or Sweater
-53,Light Jacket or Sweater
-54,Light Jacket or Sweater
-55,Light Jacket or Sweater
-56,Light Jacket or Sweater
-57,Light Jacket or Sweater
-58,Light Jacket or Sweater
-59,Light Jacket or Sweater
-60,Light Jacket or Sweater
-61,Light Jacket or Sweater
-62,Light Jacket or Sweater
-63,Light Jacket or Sweater
-64,Light Jacket or Sweater
-65,Light Jacket or Sweater
-66,Light Jacket or Sweater
-67,Tee Shirt
-68,Tee Shirt
-69,Tee Shirt
-70,Tee Shirt
-71,Tee Shirt
-72,Tee Shirt
-73,Tee Shirt
-74,Tee Shirt
-75,Tee Shirt
-76,Tee Shirt
-77,Tee Shirt
-78,Tee Shirt
-79,Tee Shirt
-80,Tee Shirt
-81,Tee Shirt
-82,Tee Shirt
-83,Tee Shirt
-84,Tee Shirt
-85,Tee Shirt
-86,Tee Shirt
-87,Tee Shirt
-88,Tee Shirt
-89,Tee Shirt
-90,Tee Shirt
-91,Tee Shirt
-92,Tee Shirt
-93,Tee Shirt
-94,Tee Shirt
-95,Tee Shirt
-96,Tee Shirt
-97,Tee Shirt
-98,Tee Shirt
-99,Tee Shirt
-100,Tee Shirt
-101,Tee Shirt
-102,Tee Shirt
-103,Tee Shirt
-104,Tee Shirt
-105,Tee Shirt
-106,Tee Shirt
-107,Tee Shirt
-108,Tee Shirt
-109,Tee Shirt
-110,Tee Shirt
+temperature,tier
+-10,0
+-9,0
+-8,0
+-7,0
+-6,0
+-5,0
+-4,0
+-3,0
+-2,0
+-1,0
+0,0
+1,0
+2,0
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+11,0
+12,0
+13,0
+14,0
+15,0
+16,0
+17,0
+18,0
+19,0
+20,0
+21,0
+22,0
+23,0
+24,0
+25,0
+26,0
+27,0
+28,0
+29,0
+30,0
+31,1
+32,1
+33,1
+34,1
+35,1
+36,1
+37,1
+38,1
+39,2
+40,2
+41,2
+42,2
+43,2
+44,2
+45,2
+46,2
+47,2
+48,2
+49,3
+50,3
+51,3
+52,3
+53,3
+54,3
+55,3
+56,3
+57,3
+58,3
+59,3
+60,4
+61,4
+62,4
+63,4
+64,4
+65,4
+66,4
+67,4
+68,4
+69,4
+70,5
+71,5
+72,5
+73,5
+74,5
+75,5
+76,5
+77,5
+78,6
+79,6
+80,6
+81,6
+82,6
+83,6
+84,6
+85,6
+86,7
+87,7
+88,7
+89,7
+90,7
+91,7
+92,7
+93,7
+94,7
+95,7
+96,7
+97,7
+98,7
+99,7
+100,7
+101,7
+102,7
+103,7
+104,7
+105,7
+106,7
+107,7
+108,7
+109,7
+110,7

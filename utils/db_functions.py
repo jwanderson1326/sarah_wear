@@ -2,7 +2,7 @@
 import os
 import csv
 import mysql.connector
-from .db_config import HOST, USER, DB, PASSWD, PATH_CSV
+from db_config import HOST, USER, DB, PASSWD, PATH_CSV
 
 
 def connect_to_db():
